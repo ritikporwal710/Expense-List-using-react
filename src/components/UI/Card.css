@@ -2,5 +2,7 @@
     box-shadow: 0 1px 8px rgba(0, 0, 0, 0.5);
     border-radius: 12px;
     /* border: 2px solid yellow; */
+  background: linear-gradient(270deg, purple 10%, green 100%);
+
 }
 

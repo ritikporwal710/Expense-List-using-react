@@ -9,6 +9,8 @@
     border-radius: 12px;
     border: 1px solid black;
     text-align: center;
+  background: linear-gradient(270deg, blue 10%, green 100%);
+
 
 }
 
