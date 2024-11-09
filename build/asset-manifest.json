@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/Expense-List-using-react/static/css/main.e1ef9ce2.css",
+    "main.css": "/Expense-List-using-react/static/css/main.1c3b1887.css",
     "main.js": "/Expense-List-using-react/static/js/main.27d899fb.js",
+    "static/media/bg_expense.jpg": "/Expense-List-using-react/static/media/bg_expense.931adee6dd02c4f4e293.jpg",
     "index.html": "/Expense-List-using-react/index.html",
-    "main.e1ef9ce2.css.map": "/Expense-List-using-react/static/css/main.e1ef9ce2.css.map",
+    "main.1c3b1887.css.map": "/Expense-List-using-react/static/css/main.1c3b1887.css.map",
     "main.27d899fb.js.map": "/Expense-List-using-react/static/js/main.27d899fb.js.map"
   },
   "entrypoints": [
-    "static/css/main.e1ef9ce2.css",
+    "static/css/main.1c3b1887.css",
     "static/js/main.27d899fb.js"
   ]
 }
